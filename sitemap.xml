@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://linboz.me/2016/02/21/hello-world/</loc>
+    
+    <lastmod>2016-02-21T07:38:41.951Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://linboz.me/about/index.html</loc>
     
     <lastmod>2016-02-21T05:49:49.737Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>http://linboz.me/tags/index.html</loc>
     
     <lastmod>2016-02-21T05:34:18.565Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://linboz.me/2016/02/19/hello-world/</loc>
-    
-    <lastmod>2016-02-19T11:45:27.211Z</lastmod>
     
   </url>
   
