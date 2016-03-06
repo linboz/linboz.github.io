@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://linboz.me/2016/03/06/social-thinking/</loc>
+    
+    <lastmod>2016-03-06T12:48:40.696Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://linboz.me/2016/02/29/hello-world/</loc>
+    
+    <lastmod>2016-02-28T16:59:15.407Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://linboz.me/2016/02/29/random-walk/</loc>
     
     <lastmod>2016-02-28T16:26:10.362Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>http://linboz.me/about/index.html</loc>
     
     <lastmod>2016-02-21T08:10:12.907Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://linboz.me/2016/02/21/hello-world/</loc>
-    
-    <lastmod>2016-02-21T07:38:41.951Z</lastmod>
     
   </url>
   
